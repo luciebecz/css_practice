@@ -1,0 +1,79 @@
+.App {
+  text-align: left;
+}
+
+/*===============================
+        HEADER 
+===============================*/
+.App-header {
+  background-color: purple;
+  height: 480px;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.App-header .header_image .css_image#first_header_image {
+  padding-top: 70px;
+}
+
+.App-header .header_image .css_image {
+  width: 33%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+/*===============================
+        DIVIDER
+===============================*/
+.divider {
+  background-color: yellow;
+  height: 20px;
+  width: 100%;
+}
+
+/*===============================
+        INTRO
+===============================*/
+
+.App-intro {
+  background-color: lightcoral;
+  height: 1000px;
+  padding: 20px;
+}
+
+.App-intro hr {
+  border-bottom: 3px solid black;
+}
+
+.App-intro h2 {
+  text-align: center;
+}
+
+.app_intro_col {
+  column-count: 3;
+  
+  text-align: center;
+  margin-top: 40px; 
+}
+
+.App-intro .app_intro_col .col {
+  background-color: lightblue;
+  height: 700px;
+  border-radius: 10px;
+}
+
+.App-intro .app_intro_col .col h3 {
+  font-size: 40px;
+}
+
+/*===============================
+        FLEX_INTRO
+===============================*/
+.flex_intro {
+
+}
